@@ -1,0 +1,4 @@
+# Exact bytes: SHA256SUMS digests must match the published files.
+* text=auto eol=lf
+datasets/**/catalogue.json -text
+datasets/**/SHA256SUMS -text
